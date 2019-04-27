@@ -1,0 +1,4 @@
+name = "HermiteNormalForm"
+uuid = "763e3c60-6905-11e9-357c-6740e711f3c8"
+authors = ["Sascha Timme <sascha.timme@gmail.com>"]
+version = "0.1.0"
